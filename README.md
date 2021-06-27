@@ -24,5 +24,5 @@
     + Go to: https://dashboard.ngrok.com/endpoints/status copy host(eg: 0.tcp.in.ngrok.io:13472)
     + Username: Alone
     + Password: Alone215
-* Use Chrome Remote Desktop for faster and smoother remotes
+* Use [Chrome Remote Desktop](https://remotedesktop.google.com/support) for faster and smoother remotes
 
